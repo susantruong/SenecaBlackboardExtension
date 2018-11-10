@@ -25,11 +25,13 @@ if (window.location.href == "https://my.senecacollege.ca/webapps/portal/execute/
                        <br />
                        <!-- link -->
                                <li style="color: #555555;">
-                                   <a href="https://myseneca.ca" target="_blank"><b>MySeneca Email</b></a><br /><br /></li>
+                                   <a href="https://myseneca.ca" target="_blank">MySeneca Email</a><br /><br /></li>
                        <!-- link -->
                                <li style="color: #555555;">
-                                   <a href="https://studenterp.senecacollege.ca/psp/ps/?cmd=login" target="_blank"><b>Student Centre</b></a> <br /><br /></li>
-                       <hr /> <br />
+                                   <a href="https://inside.senecacollege.ca/its/support/myseneca/" target="_blank">My.Seneca Help</a><br /><br /></li>            
+                       <!-- link -->
+                               <li style="color: #555555;">
+                                   <a href="https://studenterp.senecacollege.ca/psp/ps/?cmd=login" target="_blank">Student Centre</a> <br /><br /></li>
                        <!-- link -->
                                <li style="color: #555555;">
                                    <a href="http://www.senecacollege.ca/onecard/index.html" target="_blank">OneCard</a><br /><br /></li>
